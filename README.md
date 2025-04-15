@@ -29,4 +29,13 @@ Install needed Python libraries
 
 `pip install pandas`
 
-
+For W2A1 Python 3.8.10 is required as well as Tensorflow 2.9.1
+`pyenv virtualenv-delete dls-c4`
+`pyenv install 3.8.10`
+`pyenv virtualenv 3.8.10 dls-c4-w2`
+`pyenv local dls-c4-w2`
+`pip install nbconvert`
+`pip install tensorflow==2.9.1`
+`pip install numpy==1.22.3`
+`pip install scipy==1.7.3`
+`pip install matplotlib`
