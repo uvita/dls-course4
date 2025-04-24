@@ -39,3 +39,6 @@ For W2A1 Python 3.8.10 is required as well as Tensorflow 2.9.1
 `pip install numpy==1.22.3`
 `pip install scipy==1.7.3`
 `pip install matplotlib`
+
+For W3A1
+`pip install pandas==1.0.3`
